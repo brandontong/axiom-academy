@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Magic8Ball
+//  Magic_8Ball
 //
-//  Created by frequency on 7/6/18.
+//  Created by frequency on 7/7/18.
 //  Copyright © 2018 Blue Mountain State. All rights reserved.
 //
 
